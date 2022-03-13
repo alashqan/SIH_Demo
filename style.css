@@ -1,0 +1,50 @@
+h1{
+    text-align: center;
+    padding: 23px 70px 0px 70px;
+    margin: 0;
+}
+
+p{
+    text-align: center;
+    padding: 0 0 40px 0;
+    margin: 0;
+}
+.content{
+    width: 40%;
+}
+
+.display{
+    width: 60%;
+    text-align: center;
+    height: 90vh;
+    border-left: 1px solid #d1d1d1;
+} 
+h2{
+    display: inline;
+    font-size: 20px;
+    padding-top: 12px;
+}
+
+.locations{
+    height: 8vh;
+    margin: 10px;
+    background-color: #dee2e6;
+    padding: 3px 20px 3px 20px;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.btn{
+    width: 80px;
+    height: 40px;
+    margin-top: 7px;
+}
+
+.main{
+    display: flex;
+    flex-direction: row;
+    border-top: 1px solid #d1d1d1;
+}
